@@ -8,5 +8,8 @@
   },
   "keywords": ["JavaScritp", "node", "npm"],
   "author": "Mauricio Alejandro Gonzalez <maugfalcon1@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  } 
 }
