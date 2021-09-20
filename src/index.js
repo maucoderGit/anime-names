@@ -12,8 +12,8 @@ const mugiwaras = [
 ]
 
 const randomMessage = () => {
-    const mugiwaras = messages[Math.floor(Math.random() * messages.length)]
-    console.log(mugiwaras)
+    const mugiwara = mugiwaras[Math.floor(Math.random() * mugiwaras.length)]
+    console.log(mugiwara)
 }
 
 module.exports = 
