@@ -1,4 +1,4 @@
-const messages = [
+const mugiwaras = [
     "Luffy",
     "Zoro",
     "Nami",
@@ -11,9 +11,11 @@ const messages = [
     "Jimbe"
 ]
 
+const
+
 const randomMessage = () => {
-    const message = messages[Math.floor(Math.random() * messages.length)]
-    console.log(message)
+    const mugiwaras = messages[Math.floor(Math.random() * messages.length)]
+    console.log(mugiwaras)
 }
 
 module.exports = 
