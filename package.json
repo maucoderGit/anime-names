@@ -1,5 +1,5 @@
 {
-  "name": "random-messages",
+  "name": "Random anime names",
   "version": "1.0.0",
   "description": "random messages package",
   "main": "src/index.js",
